@@ -1,1 +1,1 @@
-# Poker_C-Java
+Projet personnel pour la création d'un Blackjack en C++
