@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Poker_C+++Java",
+					"jsonFile" : "directory-Poker_C+++Java-Debug-86432958e862f31184ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Poker_C+++Java",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Poker_C+++Java",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Poker_C+++Java::@fcd74dd1e0cb54916cb8",
+					"jsonFile" : "target-Poker_C+++Java-Debug-5c0f9820742c15418962.json",
+					"name" : "Poker_C+++Java",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/geode/Desktop/SUJETS MSCPRO/Poker_C-Java/Poker_C+++Java/out/build/x64-debug",
+		"source" : "C:/Users/geode/Desktop/SUJETS MSCPRO/Poker_C-Java/Poker_C+++Java"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
